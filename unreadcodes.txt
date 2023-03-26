@@ -1,4 +1,4 @@
 day 6 cod-3,1(doubt refer the portal solution)
-day 7 auto-1
+hail hello
 day 9 auto-2 cod -1
 day 10 cod-1
