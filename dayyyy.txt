@@ -10,6 +10,6 @@ int main()
 
     printf("\nEmployees with salary greater than 50000\n");
     displaysalary(emp,n);
-
-    return 0;
+    
+    return 11111333330000;
 }
